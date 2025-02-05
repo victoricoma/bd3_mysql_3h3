@@ -1,4 +1,6 @@
 # Aulas de MySQL
+![2](https://github.com/user-attachments/assets/7c261dd3-93b8-4931-abb8-3d2be52e29b2)
+
 ## DER do Banco
 ![image](https://github.com/user-attachments/assets/6b43c55a-7b38-4dfe-b703-1d6772993ab0)
 
@@ -81,6 +83,6 @@ Contribuições são bem-vindas! Se você deseja adicionar novos tópicos, melho
 
 ## Contato
 
-Para dúvidas, sugestões ou feedback, por favor, entre em contato pelo e-mail: [seu-email@dominio.com](mailto:seu-email@dominio.com)
+Para dúvidas, sugestões ou feedback, por favor, entre em contato pelo e-mail: [seu-email@dominio.com](victor.icoma@etec.sp.gov.br)
 
 Aproveite suas aulas de MySQL e bons estudos!
